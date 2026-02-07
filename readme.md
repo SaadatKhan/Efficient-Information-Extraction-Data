@@ -39,4 +39,7 @@ To test:
 python eval.py
 ```
 
+## Our trained model is available at: 
+https://huggingface.co/skhan225/RoBERTa_distilled_HPV
+
 **This is an evolving repository with citations details of the manuscript to be added after publication**
