@@ -1,0 +1,350 @@
+text,Labels,label_vector
+"Can HPV be prevented?
+ 
+Talk to your health care provider for more information about the HPV vaccine.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV vaccine for adults age 27 to 45 years
+ 
+This is a recommended vaccine up through age 26.If you are an adult age 27 through age 45, talk with your healthcare provider to see if you should get the HPV vaccine.","['Rec-Children', 'Stance-Recommend', 'Stance-Optional']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0]"
+"Human Papillomavirus (HPV)
+ 
+Kiviat NB, Koutsky LA, Paavonen J. Cervical neoplasia and other STD-related genital tract neoplasias. In: K. Holmes, P. Sparling, P. Mardh et al (eds). Sexually Transmitted Diseases, 3rd edition. New York: McGraw-Hill, 1999, p. 811-831.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start VaccinesCommon QuestionsCDC VaccineSafetyCDC Childhood VaccinesAdolescent VaccinesAdult VaccinesVaccine EquityCOVID-19Vaccine InfoVaccine Equity,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Vaccine Code Lists Health Care ProviderHPVImmunization EvaluationImmunization ReportingMedical Assistant TrainingOrder Educational MaterialsProvider Immunization Record ReleaseProvider Vaccine ResourcesUtah Statistics,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Human Papillomavirus (HPV)
+ 
+On-time vaccination of 9- to 12-year-olds prior to HPV exposure is the best way to prevent these cancers and genital warts. Those who did not start or finish the vaccine series can be vaccinated through age 26 years. Additionally, some adults aged 27-45 years who are not fully vaccinated can discuss with their health care provider if vaccination makes sense for them.","['Cancer Prevention', 'Rec-Children', 'Stance-Recommend', 'Stance-Optional']","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0]"
+Side Navigation SuicideSuicide Prevention for SchoolsSuicide Prevention in Youths,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Page-start
+ 
+Education ModulesProtecting Kansans with ImmunizationPreventing FluShutting the Door on HPV CancersMore...",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Tools and Resources
+ 
+Video series: Childhood and Adolescent Vaccine Education(American Academy of Pediatrics)",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation Women's Health ServicesAlternatives to Abortion ServicesAlternatives to Abortion Services - Participant RightsWomen's WayAbout Women's WayBenefits of ScreeningBreast Cancer ScreeningBuilding Community. Stronger Together.Cervical Cancer ScreeningLocal Coordinating UnitWho Is Eligible for Women's Way?Women's Way PartnersWomen's Way ProvidersWomen's Way Resources,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Adolescent Vaccines
+ 
+Tetanus, diphtheria, pertussis (Tdap)Tdap vaccine can protect adolescents and adults from tetanus, diphtheria, and pertussis. One dose of Tdap is routinely given at age 11 or 12.  People who didnotget Tdap at that age should get it as soon as possible. Another vaccine, called Td, protects against tetanus and diphtheria, but not pertussis. A Td booster should be given every 10 years. Use the resources below for more information about vaccinating adolescents in your practices.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"What Vaccines Do I Need?
+ 
+Tdap vaccine to protect against tetanus, diphtheria, and pertussis (whooping cough).",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"How do people get genital HPV infections?
+ 
+The types of HPV that infect the genital area are spread primarily through sexual contact. Most HPV
+infections have no signs or symptoms; therefore, most infected persons are completely unaware they are
+infected, yet they can transmit the virus to a sex partner. Rarely, pregnant women can pass HPV to their
+baby during vaginal delivery. A newborn that is exposed to HPV during delivery can develop warts in the
+larynx (voice box).","['Asymptomatic', 'Sexual Spread']","[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"What are the symptoms and complications of HPV?
+ 
+Most people do not know they are infected with HPV because they may never develop symptoms or other health problems. Some people will first discover they have HPV when they develop genital warts. Women may find out they have HPV after having an abnormal Pap smear during a routine yearly examination. Other people may only find out they have HPV after developing other serious problems like certain cancers. HPV can cause cancers of the cervix, vagina, vulva, penis, anus and back of the throat.","['Asymptomatic', 'Cause of Cervical Cancer', 'Cause of Cancer']","[1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"What is genital HPV infection?
+ 
+Genital HPV infection is a sexually transmitted disease (STD) that is caused by human papilloma virus
+(HPV). Human papilloma virus, or HPV, is the name of a group of viruses that includes more than 100 different
+strains or types. Over 30 of these are sexually transmitted, and they can infect the genital area, like
+the skin of the penis, vulva, labia, or anus, or the tissues covering the vagina and cervix.",['Sexual Spread'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Adults Need Shots, Too!
+ 
+Most sites offer flu vaccine as well as other vaccines such as hepatitis B, hepatitis A,MMR,Tdapand others. Please call the provider to confirm vaccine availability and make an appointment. Adults with private health insurance, Medicaid and/or Medicare can receive vaccines at their provider’s office or at a pharmacy.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start Recovery HousingAdolescent Residential Treatment ServicesRecovery Housing Assistance Program Interested ProviderRecovery Housing Assistance Program Participating ProvidersRecovery Housing Assistance Program Provider ListRecovery Housing for Individuals,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Human Papillomavirus (HPV)
+ 
+HPV vaccine is available at no cost to adolescents less than 19 years of age",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Adolescent Vaccines
+ 
+Meningococcal Disease: Technical & Clinical Information- Centers for Disease Control and Prevention",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Vaccine is Cancer Prevention
+ 
+There are many types of HPV. Most of them are harmless and do not cause infections or symptoms. However, some types of HPV can cause cancer of the cervix, vagina, vulva, penis, anus, and back of the throat. Other types of HPV can cause genital warts. The good news is that most of these types of cancers and warts are preventable with a vaccine against HPV infection.Learn more about HPV, cancers caused by HPV, and the vaccine for HPV.","['Asymptomatic', 'Cause of Cervical Cancer', 'Cancer Prevention', 'Cause of Cancer']","[1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Information about Each Vaccine
+ 
+What Parent Should Know About HPV Vaccine Safety and Effectiveness- Centers for Disease Control and Prevention",['Source Credibility'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+Page-start RSV Information for InfantsRSV Information for Infants,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"How do I know if I have HPV?
+ 
+There is no test to find out a person’s “HPV status.” Also, there is no approved HPV test to find HPV in the mouth or throat. There are HPV tests that can screen for cervical cancer. Healthcare providers only use these tests for screening women aged 30 years and older. HPV tests are not recommended to screen men, adolescents, or women under the age of 30 years. Most people with HPV do not know they have the infection. They never develop symptoms or health problems from it. Some people find out they have HPV when they get genital warts. Women may find out they have HPV when they get an abnormal Pap test result (during cervical cancer screening). Others may only find out once they’ve developed more serious problems from HPV, such as cancers. Health problems related to HPV include genital warts and cervical cancer.","['Asymptomatic', 'Cause of Cervical Cancer', 'Cause of Cancer']","[1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Learn More
+ 
+HPV Vaccine Impact Monitoring Project",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start Reporting Abuse and Neglect of a Vulnerable Adult,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation Report Suspected Abuse of a Child,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Information about Each Vaccine
+ 
+Diphtheria, Tetanus, Whopping Cough Vaccination: What Everyone Should Know- Centers for Disease Control and Prevention",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"For more information about HPV, visit these websites:
+ 
+The Utah Department of Health and Human Services may occasionally link to outside sources of information. DHHS and the state of Utah do not necessarily endorse the provider of the content and are not responsible for any content published on the external site.",['Source Credibility'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+"HPV Vaccine
+ 
+HPV vaccine is recommended for:",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Doctors and nurses recommend the HPV vaccine for children at age 9 to 12
+ 
+As this infographic shows, the HPV vaccine provides long-lasting protection against the most common cancers caused by HPV. (PDF)Doctors and nurses recommend the HPV vaccine for children at age 9. The HPV vaccine is most effective at this age because it produces the most infection-fighting cells, or antibodies, when given during the preteen years. This also ensures immunity is already in place before any exposure to the virus. However, if your teen hasn't received the vaccine, it is not too late. Talk to their doctor or nurse about getting them immunized as soon as possible. This is a recommended vaccine up through age 26.If you are an adult age 27 through age 45, talk with your healthcare provider to see if you should get the HPV vaccine.","['Highly Effective', 'Lifelong Protection', 'Rec-Children', 'Rec-Male Femle', 'Stance-Recommend', 'Stance-Optional']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0]"
+Page-start Autism ServicesRelated Links - Autism,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Vaccines
+ 
+Click for updated recommendations from the Advisory Committee on Vaccine Practices.Download TDH's one-pager on the HPV Vaccine.Download the TDH one-page on the HPV Vaccine in Spanish.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Page-start
+ 
+DiseasesDiseases A-ZDisease TypesAnimal-TransmittedBioterrorism-RelatedBloodborneCommon InfectionsEnvironmentalFoodborneHealthcare & Hospital-TransmittedInfluenzaMosquito-TransmittedPest-TransmittedRecreation-RelatedRespiratory VirusesSexually TransmittedTravel-RelatedVaccine-PreventableWaterborne",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Vaccine Safety
+ 
+HPV vaccination is very safe and effective in protecting against HPV and the cancers it causes.","['Cancer Prevention', 'Cause of Cancer', 'Prevent Spread', 'Highly Effective', 'Side Effects']","[0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0]"
+"Who should not get the HPV vaccine?
+ 
+Have ever had life-threatening allergic reaction to any component of HPV vaccine, or to a previous dose of HPV vaccine",['Side Effects'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"
+"HPV
+ 
+You can get HPV through intimate skin-to-skin contact during sex, and a person with HPV can pass the infection to someone even when they have no signs or symptoms.","['Asymptomatic', 'Sexual Spread']","[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Arkansas Department of Health Freedom of Information Act (FOIA),[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Resources
+ 
+Where to get tested for STDs",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Human Papillomavirus and Genital Warts
+ 
+CancerSome types of HPV can cause cervical cancer. Other types are associated with vulvar cancer, anal cancer, and cancer of the penis (a rare cancer).Most HPV infections do not progress to cervical cancer. If you are a woman with abnormal cervical cells, a Pap test will detect them. If you have abnormal cervical cells, it is particularly important for you to have regular pelvic exams and Pap tests so you can be treated early, if necessary.Pregnancy and childbirthGenital warts may cause a number of problems during pregnancy. Sometimes they get larger during pregnancy, making it difficult to urinate. If the warts are in the vagina, they can make the vagina less elastic and cause obstruction during delivery.Rarely, infants born to women with genital warts develop warts in their throats (laryngeal papillomatosis). Although uncommon, it is a potentially life-threatening condition for the child, requiring frequent laser surgery to prevent obstruction of the breathing passages. Research on the use of interferon therapy with laser surgery indicates that this drug may show promise in slowing the course of the disease.ResearchScientists are doing research on two types of HPV vaccines. One type would be used to prevent infection or disease (warts or pre-cancerous tissue changes). The other type would be used to treat cervical cancers. Researchers are testing both types of vaccines in people. ​","['Cause of Cervical Cancer', 'Cancer Prevention', 'Cause of Cancer', 'Prevent Spread']","[0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Increasing First Dose HPV Vaccine for Teens
+ 
+HPV is a very common and widespread virus, consisting of more than 150 related viruses. Nearly everyone will be infected in their lifetime. In fact, the Centers for Disease Control and Prevention (CDC) estimates that more than 90% of sexually active men and 80% of sexually active women will be infected with at least one type of HPV at some point in their lives. Around one-half of these infections a​re with a high-risk HPV type.1","['Sexual Spread', 'Source Credibility']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+Side Navigation North Dakota Comprehensive Cancer Control Program,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Parents play a key role in HPV vaccination!
+ 
+For more information and resources for parents, visit theCDC HPV Website.",['Source Credibility'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+"The Disease
+ 
+There are more than 150 related viruses in the group HPV, and approximately 40 types of genital HPV. Some types can cause cervical  cancer in women and can also cause other kinds of cancer in both men and women.  Other types can cause genital warts in both males and females.","['Cause of Cervical Cancer', 'Cause of Cancer']","[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Cervical Cancer
+ 
+Each year, about 12,000 women get cervical cancer in the United States almost all of these cancers are HPV-associated","['Cause of Cervical Cancer', 'Cause of Cancer']","[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Menu Title
+ 
+Infectious DiseasesCOVID-19 (Coronavirus Disease 2019)Healthcare Associated InfectionsHIV/Sexually Transmitted DiseasesVaccine-Preventable DiseasesTuberculosis (TB)Zoonosis Control",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Additional Resources
+ 
+HPV Fact Sheet(PDF, 613 KB)",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation Community Engagement Advisory BoardsBeYou Advisory BoardNFI Advisory BoardYouth Advisory Board,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation North Dakota Child Passenger Safety Assistance,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Human Papillomavirus (HPV)
+ 
+There are many different strains of HPV, which are classified into two main groups: “high risk” and “low risk.” “High-risk” HPV can cause cancer of the cervix, vagina, vulva, penis, anus, and throat. “Low-risk” HPV can cause genital and anal warts.","['Cause of Cervical Cancer', 'Cause of Cancer']","[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Symptoms
+ 
+Flat warts on the face of children & adults",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"What about HPV and pregnancy?
+ 
+Most pregnant women with HPV do not have problems. However, active genital warts may cause problems during pregnancy or at birth. In rare cases, HPV can pass from mother to baby during childbirth. A pregnant woman should tell her doctor or health care provider if she or her sex partner(s) have ever had genital warts. Pregnant women should not get the HPV vaccine.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Page-start
+ 
+Health Care ProviderHPVImmunization EvaluationImmunization ReportingMedical Assistant TrainingOrder Educational MaterialsProvider Immunization Record ReleaseProvider Vaccine ResourcesUtah Statistics",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Information about Each Vaccine
+ 
+HPV Survivor Stories- American Cancer Society",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start Home and Community-Based Services Waivers,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start What Happens at My First Appointment and What Should I Bring?,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation Recovery Housing Assistance Program Provider List,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Page-start
+ 
+Oral Health Practitioners and Cancer Prevention through HPV Vaccination",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"What is the connection between HPV infection and cervical cancer?
+ 
+All types of HPV can cause mild Pap smear abnormalities that do not have serious consequences. Approximately
+10 of the 30 identified genital HPV types can lead, in rare cases, to development of cervical cancer.
+Research has shown that for most (90%) women, cervical HPV infection becomes undetectable within two years;
+only a small proportion have persistent infection. Persistent infection with certain types of HPV is the
+key risk factor for cervical cancer.",['Cause of Cervical Cancer'],"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Other Provider Resources
+ 
+Preteens and Teen Vaccine Fact Sheets and Print Materials- Centers for Disease Control and Prevention",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Is there treatment for HPV or health problems that develop from HPV?
+ 
+Other HPV-related cancers are also more treatable when found and treated early. For more information visit cancer.org. You can add this content to your website by syndicating.","['Cause of Cancer', 'Source Credibility']","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+"Human Papillomavirus (HPV)
+ 
+HPV Vaccine: Brochure for AdultsNEW!9/2023",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Vaccine
+ 
+Side effects are usually mild and short-lived. They include:",['Side Effects'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"
+Side Navigation North Dakota Car Seat Classes - Birthing Hospitals,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"How can I avoid HPV?
+ 
+Use latex condoms every time you have sex. This can lower your chances of getting HPV. Condoms may not give full protection against getting HPV because HPV can infect areas that are not covered by a condom.",['Sexual Spread'],"[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"How it spreads
+ 
+HPV is spread through intimate skin‐to-skin contact. You can get HPV by having vaginal, anal, or oral sex with someone who has the virus, even if they don’t have any signs or symptoms. HPV also can spread through other skin-to-skin contact with an area of the body infected with HPV.","['Asymptomatic', 'Sexual Spread']","[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation Working Parent Child Care Relief: Employers,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Human Papillomavirus (HPV)
+ 
+Teen-Friendly STD Information and Health Clinics",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"When Should My Child Get the HPV Vaccine?
+ 
+HPV vaccination is recommended at ages 11–12 years. HPV vaccines can be given starting at age nine years. Vaccines protect your child before they are exposed to an infection. That’s why we give HPV vaccination earlier, rather than later, to protect them long before they are exposed. Also, if your child gets the shot now (before they turn 15), they will only need two shots. If you wait until your child is older, they will need three shots. All preteens need HPV vaccination, so they are protected from HPV infections that can cause cancer later in life. Teens and young adults through age 26 years who didn’t start or finish the HPV vaccine series also need HPV vaccination.Reference: www.cdc.gov/hpv/hcp/answering-questions.html","['Cancer Prevention', 'Cause of Cancer', 'Prevent Spread', 'Lifelong Protection', 'Number Doses', 'Rec-Children', 'Stance-Recommend', 'Source Credibility']","[0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1]"
+Page-start Reporting Abuse and Neglect of a Vulnerable Adult,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV
+ 
+The most effective thing individuals can do to reduce their risk of developing HPV-related cancers is to get vaccinated. All people ages 9 through 26 years, including boys and girls, are recommended to get the vaccine. The vaccine can also be given to some adults older than 26 years. The HPV vaccine is safe and has been proven to reduce and prevent HPV-associated cancers such as cervical, oral, throat, anal, penile, and vulvar cancers. Pleaseclick hereto learn more about the HPV vaccine.","['Cause of Cervical Cancer', 'Cancer Prevention', 'Cause of Cancer', 'Highly Effective', 'Side Effects', 'Rec-Children', 'Rec-Male Femle', 'Stance-Recommend']","[0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0]"
+"Human Papillomavirus (HPV)
+ 
+A Pap test can detect pre-cancerous and cancerous cells on the cervix. Regular Pap testing and careful medical follow-up, with treatment if necessary, can help make sure that pre-cancerous changes in the cervix caused by HPV infection do not develop into life threatening cervical cancer. Most women who develop invasive cervical cancer don’t have regular cervical cancer screening.",['Cause of Cervical Cancer'],"[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Vaccine safety
+ 
+HPV vaccination gives long-lasting protection against cancer-causing infections and precancers.","['Cancer Prevention', 'Cause of Cancer', 'Prevent Spread', 'Highly Effective', 'Lifelong Protection']","[0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Information for Providers
+ 
+Can HPV be cured?No, but some types of HPV can be prevented by HPV vaccines. Most people with HPV never develop symptoms or health problems, and most HPV infections (9 out of 10) go away by themselves within two years.","['Asymptomatic', 'No Cure', 'Prevent Spread']","[1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Symptoms
+ 
+Cancer that results from HPV infections can take years to develop, and you may not experience symptoms until the cancer is advanced. Some HPV-associated pre-cancers can be detected through routine cervical and anal Pap tests. If left untreated, these pre-cancers can advance to cancer.","['Asymptomatic', 'Cause of Cancer']","[1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV
+ 
+DCDC Information for Local Health Departments",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Prevention
+ 
+For full protection, most 11- and 12-year-olds need two doses of the vaccine, at least six months apart. If your teen got the first dose at 15 years or older, they need three doses to get full protection.","['Number Doses', 'Rec-Children', 'Stance-Recommend']","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0]"
+"Are there any side effects?
+ 
+Dizziness or fainting. Fainting after any vaccination, including HPV vaccine, is more common among adolescents. To prevent injury from fainting, adolescents should be seated or lying down during vaccination and for 15 minutes after getting the shot.",['Side Effects'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"
+"What about the vaccine?
+ 
+With any medication, including vaccines, there is a chance of side effects. These are usually mild and go away on their own, but serious reactions are also possible. Anyone who has ever had a life-threatening allergic reaction to any component of the vaccine, including yeast, or to a previous dose of HPV vaccine should not get the vaccine. HPV vaccine is not recommended for pregnant women. If you are moderately or severely ill, you should wait until you feel better to receive the vaccine. The most common reactions after receiving the vaccine are pain, redness or swelling at the injection site, mild fever, headache and fainting.",['Side Effects'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"
+"Information about Each Vaccine
+ 
+Influenza VaccineThe influenza or ""flu"" vaccine protects your child against influenza viruses. Influenza is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness. Serious outcomes of influenza infection can result in hospitalization or death. This vaccine is administered annually.Learn more about influenza vaccine.Additional Resources:",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Page-start
+ 
+DiseasesVaccine Preventable DiseasesVaccine-Preventable Disease GraphicsCOVID-19MpoxHuman Papillomavirus (HPV)MeningitisHepatitis AHepatitis BInfluenza (Flu)MeaslesMumpsPertussisPolioRSVTetanusVaricella (Chicken Pox)",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Listen to HPV survivor testimonials.
+ 
+Hear first-hand what it’s like to have an HPV-related cancer and why getting the HPV vaccine is so important.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Book traversal links for HIV/STD Program POPS Chapter 10 - First-Line Supervisors Performance Standards,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV
+ 
+HPV-associated Cancer InformationCancers Caused by HPVHPV Cancer Infographic",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Incidence
+ 
+Every year about 17,500 women and 9,300 men are affected by cancers caused by HPV. Approximately 12,000 women are diagnosed with cervical cancer and 4,000 women die from this disease in the United States.","['Cause of Cervical Cancer', 'Cause of Cancer']","[0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Tweens, Teens, and Young Adults: Protect yourself against cancer-causing HPV infections
+ 
+HPV and men fact sheet(CDC)","['Cause of Cancer', 'Source Credibility']","[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+"Get your child the HPV vaccine now, and help prevent several types of cancer later.
+ 
+People aged 27 through 45 years old can discuss with their provider the risk of new HPV infections, and if they would benefit from the vaccine","['Cancer Prevention', 'Rec-Children', 'Stance-Recommend', 'Stance-Optional']","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0]"
+"Vaccine safety
+ 
+Pain and redness in the arm where the vaccine was given.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"For more information about HPV, visit these websites:
+ 
+Centers for Disease Control and Prevention",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"How do people get genital HPV infections?
+ 
+Rarely, a pregnant woman with genital HPV can pass HPV to her baby during delivery. Very rarely, the child can develop juvenile-onset recurrent respiratory papillomatosis (JORRP).",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start Lifespan Respite Care Grant Service,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start Human Services Coronavirus (COVID-19) Provider Resources,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start RSV Information for Older AdultsRSV - Older Adults,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Resources for Providers
+ 
+ACS National HPV Vaccination Roundtable: HPV Resource Library",['Source Credibility'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+"Regular cervical cancer screening
+ 
+Currently, screening tests for other types of cancers associated with HPV aren’t recommended.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"How is HPV spread?
+ 
+HPV is primarily spread through vaginal, anal, or oral sex with an infected person. It can also be passed through close skin-to-skin contact with an infected area. The virus can be transmitted even if there are no visible signs or symptoms.","['Asymptomatic', 'Sexual Spread']","[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Page-start North Dakota Child Passenger Safety Assistance,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Resources
+ 
+Treatment GuidelinesIncludes treatment recommendations for HPV.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"How can genital HPV infection be prevented?
+ 
+Be aware that condoms can reduce, but do not eliminate, the risk for transmission to uninfected partners.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Resources for Providers
+ 
+Why Get HPV Vaccine? Ask Jennifer (5.5' x 8.5' single-sided handouts in a 50-sheet, tear-off pad) (Item#HP-IM156E)",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Page-start
+ 
+Infectious Respiratory DiseaseSurveillanceSeasonal Respiratory Illness DashboardVaccines",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Vaccine
+ 
+Tell your doctor if you have any severe allergies, including to yeast. Anyone who has ever had a serious allergic reaction to any ingredient of the HPV vaccine, or to a previous dose of the HPV vaccine, should not get the vaccine.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation Alternative Nicotine Products and Electronic Nicotine Delivery Systems,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation ICD 10 Codes and Case Definitions,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Information about Each Vaccine
+ 
+Tetanus, diphtheria, pertussis (Tdap) VaccineThe Tdap vaccine protects your child against three diseases: tetanus, diphtheria, and pertussis (whopping cough). Tetanus is caused by a bacteria found in soil, dust and manure. Tetanus affects the neck and belly. This can lead to ""locking"" of the jaw so a person cannot open their mouth, swallow or breathe. Diphtheria is a very contagious bacterial disease that affects the respiratory system. The bacteria produce a toxin that can cause a sore throat, fever, and swollen glands in the neck. Pertussis is caused by a bacteria spread through direct contact when an infected person coughs or sneezes. After 1-2 weeks, pertussis can cause spells of violent coughing or choking, making it hard to breathe, eat or drink. This vaccine is a one time dose. Everyone should receive a dose of Td every 10 years.Learn more about the Tdap vaccine.Additional Resources:",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Side Navigation Developmental Disabilities Services - Archived News & Waiver Information,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"New Recommendations for Preventing Cancers Due to Human Papillomavirus Infections
+ 
+Preventing cancers caused by human papillomavirus (HPV) infection has just become easier.  The Centers for Disease Control and Prevention (CDC) has published new recommendations for HPV vaccines so  some teenagers can be fully vaccinated with two doses of HPV vaccine instead of three. The CDC now recommends a two dose HPV vaccine schedule for children [...]","['Cancer Prevention', 'Cause of Cancer', 'Number Doses', 'Rec-Children', 'Stance-Recommend', 'Source Credibility']","[0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1]"
+"Page-start Professions - New, Renew or Update",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Who should get the HPV vaccine?
+ 
+Vaccination is not recommended for everyone older than age 26 years. However, some adults age 27 through 45 years who are not already vaccinated may decide to get the HPV vaccine after speaking with their healthcare provider about their risk for new HPV infections and the possible benefits of vaccination. HPV vaccination in this age range provides less benefit. Most sexually active adults have already been exposed to HPV, although not necessarily all of the HPV types targeted by vaccination.","['Sexual Spread', 'Stance-Optional']","[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
+"Preventing Cancer
+ 
+Males and females ages 9 through 45 may receive the HPV vaccine, which can protect them against the HPV-related cancers mentioned above.","['Cancer Prevention', 'Stance-Optional']","[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
+"Additional resources
+ 
+More information about the effectiveness of HPV vaccine",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV Information for Providers
+ 
+Like any vaccine or medicine, HPV vaccines can cause side effects. The most common side effects are pain, redness or swelling in the arm where the shot was given, dizziness, fainting, nausea and headache. HPV vaccination does not usually cause serious side effects. The benefits of HPV vaccination far outweigh any poossible risk of side effects.",['Side Effects'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]"
+"Human Papillomavirus (HPV) Vaccine
+ 
+What is human papillomavirus (HPV)?Human papillomavirus (HPV) is a common virus that can cause cancers later in life. There are more than 100 types of HPV viruses. Some cause infection of the skin and others infect mucous membranes of various areas of the body. Different types of HPV infection affect the body in different ways. For instance, some types of HPV can lead to cancer of the tongue, tonsils, anus, cervix, vulva, and penis, and others cause warts in the genital area.What is the HPV vaccine?The HPV vaccine can prevent almost all HPV infections and protects against over 90% of cancers caused by HPV. HPV vaccine works best when given before risk of exposure and is most effective in pre-teens. Only two doses are required if the vaccine series is started before the 15th birthday.The HPV vaccine can help protect against 6 types of cancer: cancers of the cervix, throat, vagina, vulva, penis, and anus.It can also help prevent genital warts.Who can get the HPV Vaccine?Individuals ages 9-26 are eligible for the HPV vaccine.HPV vaccine produces the strongest immune response in preteens and works best when given between ages 9 and 12.What about people older than 26?HPV vaccination is not recommended for everyone older than age 26 years. Some adults age 27 through 45 years who were not already vaccinated might choose to get the HPV vaccine after speaking with their health care provider about their risk for new HPV infections and possible benefits of vaccination. HPV vaccination of adults provides less benefit, because more people in this age range have been exposed to HPV already.How many doses are there?People ages 9 through 14: two doses of the HPV shot are needed, 6-12 months apart.People ages 15 through 26: three doses of the HPV shot should be given over 6 months.Who should not get the HPV vaccine?People should not get the HPV vaccine if they:Have ever had life-threatening allergic reaction to any component of HPV vaccine, or to a previous dose of HPV vaccineAre currently pregnant. However, receiving HPV vaccine when pregnant is not cause for alarm. People who started a vaccine series before they learned they were pregnant should complete the series after the pregnancy. People who are breastfeeding may get the vaccine.People should talk to health care provider before getting HPV vaccine if they:Have severe allergies, including an allergy to yeastAre there any side effects?The most common side effects are mild and include:Pain, redness, or swelling in the arm where the shot was givenDizziness or fainting. Fainting after any vaccination, including HPV vaccine, is more common among adolescents. To prevent injury from fainting, adolescents should be seated or lying down during vaccination and for 15 minutes after getting the shot.NauseaHeadacheIs the HPV vaccine safe?Yes, the HPV vaccine went through extensive safety testing before being licensed by the FDA in 2006. More than 135 million doses have been given in the US. Scientists and health organizations at CDC, FDA and around the world closely monitor HPV vaccine safety.Tools and ResourcesVaccines for Tweens, Teens and Young Adults(American Academy of Pediatrics)Preteens & Teens Immunization Schedule(CDC & AAP)Fact Sheet: HPV Vaccination: Just the Facts(American Cancer Society)Fact Sheet: HPV: A Parent’s Guide to Preteen and Teen HPV Vaccination(Immunize.org)Fact Sheet: HPV Vaccine Guide for Adults Age 18-26(Immunize.org)Infographic: Protecting Our Children from HPV Cancers(American Cancer Society)Infographic: Take a Shot at Cancer!(American Cancer Society)Infographic: HPV is More Common Than You Think(American Academy of Pediatrics)Video series: Childhood and Adolescent Vaccine Education(American Academy of Pediatrics)","['Cause of Cervical Cancer', 'Cancer Prevention', 'Cause of Cancer', 'Prevent Spread', 'Highly Effective', 'Number Doses', 'Side Effects', 'Rec-Children', 'Stance-Recommend', 'Stance-Optional', 'Source Credibility']","[0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1]"
+"What is HPV and how is it spread?
+ 
+Anal cancer in men and women",['Cause of Cancer'],"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"For more information about HPV, visit these websites:
+ 
+Abuse/Neglect of Seniors and Adults with Disabilities1-800-371-7897Child Abuse/Neglect1-855-323-DCFS(3237)Crisis Line & Mobile Outreach Team1-801-587-3000National Suicide Prevention Lifeline1-800-273-TALK(8255)Sexual Violence Crisis Line1-888-421-1100Utah Domestic Violence1-800-897-LINK(5465)",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Why get the HPV vaccine?
+ 
+HPV types that cause most HPV cancers and genital warts have dropped 88 percent among teen girls and 81 percent among young women.","['Cause of Cancer', 'Prevent Spread', 'Highly Effective']","[0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]"
+"Human Papillomavirus (HPV)
+ 
+HPV-Associated Cancers and HPV Vaccination Coverage in California (CDPH) (PDF)",['Cause of Cancer'],"[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Human Papillomavirus (HPV)
+ 
+Human papillomavirus (HPV) is a group of common viruses that can affect both males and females. HPV can be spread by skin-to-skin contact during any type of sexual activity with an infected person, even when no symptoms are present. HPV can cause anal and mouth/throat cancers. It can also cause cancer of the cervix, vulva, and vagina in women; and cancer of the penis in men. Different types of HPV can cause genital warts. The vaccine is routinely recommended at ages 11-12 years to help prevent HPV-associated infections.","['Asymptomatic', 'Sexual Spread', 'Cause of Cervical Cancer', 'Cause of Cancer', 'Prevent Spread', 'Rec-Children', 'Stance-Recommend']","[1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0]"
+"Connecticut Department Of Public Health’s Comprehensive Cancer Control  Program Calls On Parents and Guardians To Vaccinate Their Kids Against HPV
+ 
+With more than 130 million doses distributed in the United States, as well as 15 years of close monitoring and research, the HPV vaccine is safe and effective and remains the best line of defense against over 33,700 cancers by preventing the infections that cause them. Each HPV vaccine, including 9-valent HPV vaccine (Gardasil® 9), has passed through strict safety testing before receiving approval from the U.S. Food and Drug Administration (FDA).","['Cancer Prevention', 'Prevent Spread', 'Highly Effective', 'Side Effects', 'Rec-Children', 'Stance-Recommend', 'Source Credibility']","[0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1]"
+"Human Papillomavirus (HPV)
+ 
+Send an Email or Text to Let Your Partners Know They Should Get Tested (TellYourPartner.org)",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"The CDC recommends HPV vaccination for:
+ 
+Vaccination is not generally recommended for adults older than 26 years of age. Talk with your child’s doctor about the best strategy for vaccination.","['Rec-Children', 'Stance-Recommend', 'Source Credibility']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1]"
+"Human Papillomavirus (HPV)
+ 
+Myers ER, McCrory DC, Nanda K, Bastian L, Matchar DB. Mathematical model for the natural history of human papillomavirus infection and cervical carcinogenesis. American Journal of Epidemiology 2000; 151(12):1158-1171.",['Source Credibility'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+Boil Water Advisory in Place for Five Public Water Systems Serving Parts of Narragansett and Parts of South Kingstown A boil water advisory is in place for the customers of five public water systems serving parts of Narragansett and South Kingstown because E. coli bacteria was found in the water supply. The affected water systems are:,[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Additional Resources
+ 
+HPV: Cervical Cancer PreventionCancer Prevention VaccinesHPV Roundtable - Resource LibraryADPH Oral Health",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"Massachusetts Partners in HPV Education and Prevention
+ 
+The Boston Area Health Education Center (BAHEC) is a program in the Division of Child and Adolescent Health at the Boston Public Health Commission (BPHC) that introduces high school students to careers in health and public health. In 2016, the BPHC was awarded a grant to implement a service-learning program to increase HPV vaccination rates among students at eight school-based health centers. Twenty-five Boston public high school students were recruited to the HPV Youth Ambassadors Project. The ambassadors created apublic service announcement(PSA) designed to encourage young men of color to receive the HPV vaccination. The theme of the PSA focuses on the concepts of gender norms, goal-attainment and achievement. This PSA is a powerful and unique approach to empower youth to advocate for HPV vaccination and improved health within their communities.",['Source Credibility'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]"
+"What you need to know about HPV and HPV-related cancers
+ 
+If you are aged 27 through 45 years old, talk to your healthcare professional to find out if you should get HPV vaccine.",['Stance-Optional'],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]"
+"The Centers for Disease Control and Prevention (CDC) recommends that 11- to 12-year-olds receive two doses of HPV vaccine six to 12 months apart.
+ 
+Teens and young adults who start the series later, at ages 15 through 26 years, need three doses of HPV vaccine.","['Number Doses', 'Rec-Children', 'Stance-Recommend', 'Source Credibility']","[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1]"
+"Who should not get HPV vaccine?
+ 
+HPV vaccines are safe for children who are mildly ill, like those with a low-grade fever of less than 101 degrees, a cold, runny nose, or cough. People with a moderate or severe illness should wait until they are better. Reference: www.cdc.gov/vaccines/vpd/hpv/public/index.html","['Stance-Optional', 'Source Credibility']","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]"
+"For Parents and Youth
+ 
+HPV palm card-English/SpanishYouth guide to HPV and a reminder chart for documenting vaccination appointments.",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"HPV
+ 
+Human papillomavirus (HPV)is a virus that can have big consequences. HPV can cause certain precancers, cancers, and other diseases that can develop slowly and may not even occur until later in life. Every year in the US, approximately 37,300 people (including women and men) are diagnosed with cancer caused by HPV infection. Cervical cancer is the most well-known cancer caused by HPV; however, it can also cause cancers of the mouth and throat. HPV vaccination series should be started between ages 9 to 26. Those who are ages 27 to 45 years old may decide to get the vaccine based on discussion with their clinician.HPV vaccination is not only about preventing infections, it is cancer prevention.","['Cause of Cervical Cancer', 'Cancer Prevention', 'Cause of Cancer', 'Prevent Spread', 'Stance-Optional']","[0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]"
+"HPV Cancer Prevention
+ 
+HPV PSA - Dr. Joanie Mayer Hope",[],"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+"The HPV vaccine is an effective way to prevent cancer.
+ 
+Additionally, a 10-year longitudinal study found the vaccine had an 85.6 percent efficacy rate at preventing HPV infection among men.","['Cancer Prevention', 'Prevent Spread', 'Highly Effective']","[0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]"
+"How well do these vaccines work?
+ 
+The protection provided by HPV vaccines lasts a long time. People who received HPV vaccines were followed for at least about 12 years, and their protection against HPV has remained high, with no evidence of decreasing over time","['Highly Effective', 'Lifelong Protection']","[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]"
