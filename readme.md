@@ -36,5 +36,7 @@ python train.py
 To test:
 
 ```python
-python test.py
+python eval.py
 ```
+
+**This is an evolving repository with citations details of the manuscript to be added after publication**
