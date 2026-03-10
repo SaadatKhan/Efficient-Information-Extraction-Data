@@ -46,7 +46,7 @@ https://huggingface.co/skhan225/RoBERTa_distilled_HPV
 ```bibtex
 @article{khan2026efficientIE,
   title   = {Efficient information extraction using LLMs and knowledge distillation: A study on HPV health communication},
-  author  = {Khan, Saadat H. and Lybarger, Kevin},
+  author  = {Khan, Saadat Hasan and Lybarger, Kevin},
   journal = {PLOS Digital Health},
   volume  = {5},
   number  = {3},
